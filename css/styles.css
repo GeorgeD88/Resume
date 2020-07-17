@@ -1,0 +1,58 @@
+body {
+  background-color: #f4f4f4;
+  font-family: 'Montserrat', sans-serif; /* Choose fonts in order of what's available*/
+  text-align: center;
+}
+
+#top-title {
+  font-size: 40px;
+  line-height: 15px;
+  padding-top: 50px;
+}
+
+#bottom-title {
+   font-size: 72px;
+   line-height: 15px;
+   padding-bottom: 30px
+}
+
+h1 {
+  color: #83cccb;
+}
+
+hr {
+  border: 2px solid #6983aa;
+  width: 20%;
+}
+
+.top-container {
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+/*
+p {
+  color: #8566aa;
+  letter-spacing: 1px;
+  line-height: 30px;
+   First value is top and bottom and second in side padding
+  padding: 60px 150px;
+}
+*/
